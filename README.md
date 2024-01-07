@@ -24,7 +24,7 @@ Explore and showcase a captivating image gallery with this Pixabay Image Gallery
 **How to Use:**
 1. Clone the repository.
 2. Install dependencies using `npm install`.
-3. Run the application with `npm start`.
+3. Run the application with `npm run dev`.
 4. Explore the Pixabay Image Gallery, search for images, and delve into detailed image information.
 
 **Contributions:**
